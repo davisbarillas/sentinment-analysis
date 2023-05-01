@@ -32,7 +32,7 @@ docutils==0.15.2
 entrypoints==0.3
 feedparser==5.2.1
 Fiona==1.8.6
-Flask==1.1.1
+Flask==2.3.2
 Flask-Compress==1.4.0
 future==0.17.1
 GDAL==2.4.2
